@@ -1,0 +1,73 @@
+Código do Usuário,Porte,Idade,Categoria,Item,Preço Unitário (R$),Data da Consulta,Local da Consulta
+Marcelo Matos,Grande,Sênior,Alimentação,Ração seca,45.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Alimentação,Alimento úmido (sachês ou latas),15.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Enriquecimento,Brinquedo,10.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Conforto,Cobertor ou manta,25.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Acessório,Coleira ou peitoral com guia,36.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Higiene,Sacos para fezes,8.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Limpeza,Detergente neutro ou desinfetante,6.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Limpeza,Luvas de limpeza,10.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Limpeza,Panos ou toalhas,20.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Saúde,Antipulgas (spot-on ou coleira),35.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Sênior,Saúde,Vermífugo,45.0,2025-07-08,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Alimentação,Ração seca,75.9,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Alimentação,Alimento úmido (sachês ou latas),15.3,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Enriquecimento,Brinquedo,9.99,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Conforto,Cobertor ou manta,19.9,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Acessório,Coleira ou peitoral com guia,32.9,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Higiene,Sacos para fezes,8.7,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Limpeza,Detergente neutro ou desinfetante,3.45,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Limpeza,Luvas de limpeza,5.5,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Limpeza,Panos ou toalhas,10.0,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Saúde,Antipulgas (spot-on ou coleira),25.9,2025-07-08 00:00:00,Zaffari Ipiranga
+Marcelo Matos,Grande,Filhote,Saúde,Vermífugo,45.0,2025-07-08 00:00:00,Zaffari Ipiranga
+Lucas A. Meireles,Pequeno,Filhote,Alimentação,Ração seca,39.90,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Alimentação,Alimento úmido (sachês ou latas),10.50,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Saúde,Vermífugo,25.00,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Saúde,Antipulgas,34.90,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Conforto,Caminha,55.00,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Conforto,Cobertor ou manta,21.90,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Enriquecimento,Brinquedo,15.00,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Higiene,Shampoo,18.90,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Alimentação,Petisco,9.90,2025-07-05,Mundo Pet Azenha
+Lucas A. Meireles,Pequeno,Filhote,Higiene,Tapete higiênico (unidade),2.90,2025-07-05,Mundo Pet Azenha
+Marina T. Alves,Grande,Sênior,Alimentação,Ração seca,78.90,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Alimentação,Alimento úmido (sachês ou latas),14.50,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Saúde,Vermífugo,32.00,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Saúde,Antipulgas,48.00,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Conforto,Caminha,110.00,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Conforto,Cobertor ou manta,28.00,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Enriquecimento,Brinquedo,25.90,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Higiene,Shampoo,29.90,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Alimentação,Petisco,16.00,2025-06-26,Zaffari Lima e Silva
+Marina T. Alves,Grande,Sênior,Higiene,Tapete higiênico (unidade),4.20,2025-06-26,Zaffari Lima e Silva
+Fernando G. Rocha,Médio,Adulto,Alimentação,Ração seca,54.90,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Alimentação,Alimento úmido (sachês ou latas),12.00,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Saúde,Vermífugo,29.90,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Saúde,Antipulgas,42.50,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Conforto,Caminha,85.00,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Conforto,Cobertor ou manta,26.00,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Enriquecimento,Brinquedo,19.90,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Higiene,Shampoo,21.50,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Alimentação,Petisco,13.90,2025-07-01,Agropecuária do Chico
+Fernando G. Rocha,Médio,Adulto,Higiene,Tapete higiênico (unidade),3.50,2025-07-01,Agropecuária do Chico
+Carla V. Moreira,Pequeno,Sênior,Alimentação,Ração seca,43.90,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Alimentação,Alimento úmido (sachês ou latas),11.50,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Saúde,Vermífugo,26.90,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Saúde,Antipulgas,38.90,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Conforto,Caminha,59.00,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Conforto,Cobertor ou manta,24.00,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Enriquecimento,Brinquedo,18.00,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Higiene,Shampoo,20.00,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Alimentação,Petisco,10.00,2025-06-22,Petz Teresópolis
+Carla V. Moreira,Pequeno,Sênior,Higiene,Tapete higiênico (unidade),3.00,2025-06-22,Petz Teresópolis
+Bruno S. Lima,Médio,Filhote,Alimentação,Ração seca,45.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Alimentação,Alimento úmido (sachês ou latas),11.20,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Saúde,Vermífugo,28.50,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Saúde,Antipulgas,40.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Conforto,Caminha,78.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Conforto,Cobertor ou manta,25.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Enriquecimento,Brinquedo,20.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Higiene,Shampoo,22.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Alimentação,Petisco,12.00,2025-06-28,Super Kan Pet
+Bruno S. Lima,Médio,Filhote,Higiene,Tapete higiênico (unidade),3.20,2025-06-28,Super Kan Pet

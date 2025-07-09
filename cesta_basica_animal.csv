@@ -1,0 +1,100 @@
+Categoria,Item,Descrição,Porte,Idade,Quantidade sugerida
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Pequeno,Filhote,1 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Pequeno,Filhote,5 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Pequeno,Filhote,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Pequeno,Filhote,1 manta pequena
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Pequeno,Filhote,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Pequeno,Filhote,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Pequeno,Filhote,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Pequeno,Filhote,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Pequeno,Filhote,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Pequeno,Filhote,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Pequeno,Filhote,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Médio,Filhote,5 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Médio,Filhote,5 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Médio,Filhote,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Médio,Filhote,1 manta média
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Médio,Filhote,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Médio,Filhote,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Médio,Filhote,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Médio,Filhote,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Médio,Filhote,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Médio,Filhote,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Médio,Filhote,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Grande,Filhote,10 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Grande,Filhote,5 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Grande,Filhote,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Grande,Filhote,1 manta grande
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Grande,Filhote,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Grande,Filhote,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Grande,Filhote,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Grande,Filhote,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Grande,Filhote,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Grande,Filhote,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Grande,Filhote,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Pequeno,Adulto,1 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Pequeno,Adulto,8 a 12 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Pequeno,Adulto,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Pequeno,Adulto,1 manta pequena
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Pequeno,Adulto,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Pequeno,Adulto,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Pequeno,Adulto,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Pequeno,Adulto,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Pequeno,Adulto,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Pequeno,Adulto,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Pequeno,Adulto,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Médio,Adulto,5 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Médio,Adulto,8 a 12 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Médio,Adulto,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Médio,Adulto,1 manta média
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Médio,Adulto,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Médio,Adulto,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Médio,Adulto,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Médio,Adulto,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Médio,Adulto,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Médio,Adulto,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Médio,Adulto,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Grande,Adulto,10 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Grande,Adulto,8 a 12 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Grande,Adulto,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Grande,Adulto,1 manta grande
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Grande,Adulto,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Grande,Adulto,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Grande,Adulto,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Grande,Adulto,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Grande,Adulto,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Grande,Adulto,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Grande,Adulto,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Pequeno,Sênior,1 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Pequeno,Sênior,10 a 20 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Pequeno,Sênior,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Pequeno,Sênior,1 manta pequena
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Pequeno,Sênior,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Pequeno,Sênior,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Pequeno,Sênior,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Pequeno,Sênior,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Pequeno,Sênior,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Pequeno,Sênior,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Pequeno,Sênior,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Médio,Sênior,5 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Médio,Sênior,10 a 20 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Médio,Sênior,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Médio,Sênior,1 manta média
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Médio,Sênior,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Médio,Sênior,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Médio,Sênior,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Médio,Sênior,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Médio,Sênior,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Médio,Sênior,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Médio,Sênior,1 dose por animal
+Alimentação,Ração seca,"Ração seca específica para a faixa etária, usada como alimentação base diária",Grande,Sênior,10 kg por animal
+Alimentação,Alimento úmido (sachês ou latas),"Alimento úmido para complementar a ração seca, ajuda na hidratação e palatabilidade",Grande,Sênior,10 a 20 unidades por animal
+Enriquecimento,Brinquedo,"Brinquedo para estímulo mental e entretenimento, como corda, bolinha ou mordedor",Grande,Sênior,1 unidade por animal
+Conforto,Cobertor ou manta,"Cobertor ou manta para conforto térmico, principalmente em dias frios",Grande,Sênior,1 manta grande
+Acessório,Coleira ou peitoral com guia,Acessório para transporte e passeio seguro dos cães,Grande,Sênior,1 conjunto (coleira ou peitoral com guia)
+Higiene,Sacos para fezes,Sacos plásticos para coleta de fezes e higiene do ambiente,Grande,Sênior,1 rolo com 100 sacos
+Limpeza,Detergente neutro ou desinfetante,"Produto de limpeza para higienização de baias, utensílios e pisos",Grande,Sênior,500 ml a 2 litros
+Limpeza,Luvas de limpeza,Luvas utilizadas para limpeza e manuseio seguro dos animais e ambientes,Grande,Sênior,1 par ou 1 pacote
+Limpeza,Panos ou toalhas,Panos reutilizáveis ou toalhas para secagem e limpeza de cães ou superfícies,Grande,Sênior,2 a 4 unidades
+Saúde,Antipulgas (spot-on ou coleira),Produto antipulgas para prevenção e controle de parasitas externos,Grande,Sênior,1 unidade por animal
+Saúde,Vermífugo,Medicamento oral para vermifugação preventiva dos cães,Grande,Sênior,1 dose por animal
